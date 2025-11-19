@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "headline": "Boost Your Digital Presence Today!",
+    "subheadline": "We create innovative marketing strategies that drive real results."
+  },
+  "about_us": {
+    "image": "/team/team.jpg",
+    "title": "About Our Team",
+    "paragraph": "We are a passionate team of digital marketing experts dedicated to helping brands grow online.",
+    "points": [
+      "Data-driven strategies focusing on ROI (Return on Investment)",
+      "Comprehensive SEO, Content, and Social Media expertise",
+      "Tailored digital solutions for sustained online growth",
+      "Full transparency with detailed analytics and performance reports",
+      "Agile and continuous optimization of campaigns"
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "SEO Optimization",
+      "description": "Improve your website visibility and ranking on search engines.",
+      "icon": "FaSearch"
+    },
+    {
+      "id": 2,
+      "name": "Social Media Marketing",
+      "description": "Engage your audience across all social media platforms.",
+      "icon": "FaFacebook"
+    },
+    {
+      "id": 3,
+      "name": "Content Marketing",
+      "description": "Create valuable content that attracts and retains customers.",
+      "icon": "FaPenNib"
+    },
+    {
+      "id": 4,
+      "name": "Email Marketing",
+      "description": "Reach your audience directly with personalized campaigns.",
+      "icon": "FaEnvelope"
+    },
+    {
+      "id": 5,
+      "name": "PPC Advertising",
+      "description": "Generate leads quickly with paid advertising campaigns.",
+      "icon": "FaDollarSign"
+    },
+    {
+      "id": 6,
+      "name": "Analytics & Reporting",
+      "description": "Track performance and make data-driven decisions.",
+      "icon": "FaChartLine"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "title": "Strategic Business Planning",
+      "text_1": "We help organizations identify their goals, assess market opportunities, and create actionable plans that drive growth.",
+      "text_2": "Our team of experts combines industry insights with data-driven strategies to ensure your business stays ahead of the competition.",
+      "image": "/slide1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Brand Development",
+      "text_1": "We craft unique brand identities that resonate with your target audience.",
+      "text_2": "From logos to messaging, we ensure your brand stands out in the digital space.",
+      "image": "/slide2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Conversion Optimization",
+      "text_1": "Increase your website conversions with tested and proven strategies.",
+      "text_2": "We analyze user behavior to maximize leads and sales.",
+      "image": "/slide3.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "What is Digital Marketing?",
+      "answer": "Digital marketing is the promotion of products or brands via digital channels like social media, search engines, email, and websites."
+    },
+    {
+      "id": 2,
+      "question": "Why is SEO important?",
+      "answer": "SEO helps improve your website's visibility on search engines, attracting more organic traffic and potential customers."
+    },
+    {
+      "id": 3,
+      "question": "What is PPC advertising?",
+      "answer": "PPC is a paid advertising model where you pay for each click on your ads to drive traffic and leads."
+    },
+    {
+      "id": 4,
+      "question": "How can social media help my business?",
+      "answer": "Social media allows businesses to engage with their audience, build brand awareness, and drive sales."
+    },
+    {
+      "id": 5,
+      "question": "What is content marketing?",
+      "answer": "Content marketing involves creating valuable content to attract, engage, and retain a clearly defined audience."
+    },
+    {
+      "id": 6,
+      "question": "Do you offer analytics reporting?",
+      "answer": "Yes, we provide detailed analytics and performance reports to help you make informed decisions."
+    }
+  ],
+  "team": [
+    { "id": 1, "name": "Alice Johnson", "position": "Lead Designer", "image": "persons/person_1.jpg" },
+    { "id": 2, "name": "Michael Smith", "position": "SEO Specialist", "image": "persons/person_2.jpg" },
+    { "id": 3, "name": "Samantha Lee", "position": "Content Strategist", "image": "persons/person_15.webp" },
+    { "id": 4, "name": "David Brown", "position": "PPC Manager", "image": "persons/person_4.jpg" },
+    { "id": 5, "name": "John Miller", "position": "Social Media Manager", "image": "persons/person_7.jpg" },
+    { "id": 6, "name": "Daniel Wilson", "position": "Marketing Analyst", "image": "persons/person_6.jpg" }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "text": "I was impressed by their creativity and dedication. They brought innovative solutions to the table and truly went above and beyond. Our business has benefited greatly from their expertise.",
+      "client_image": "/persons/person_15.webp",
+      "client_name": "Emily Davis"
+    },
+    {
+      "id": 2,
+      "text": "The team transformed our online presence and increased our lead generation by 200%. Highly recommend their services!",
+      "client_image": "/persons/person_6.jpg",
+      "client_name": "James Anderson"
+    },
+    {
+      "id": 3,
+      "text": "Professional, responsive, and results-driven. They made digital marketing easy for our company.",
+      "client_image": "/persons/person_1.jpg",
+      "client_name": "Sophia Martinez"
+    }
+  ]
+}
